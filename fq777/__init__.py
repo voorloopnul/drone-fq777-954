@@ -1,2 +1,2 @@
-from dronecontrollink import DroneControl
-from dronevideolink import DroneVideo
+from dronecontrol import DroneControl
+from dronevideo import DroneVideo
